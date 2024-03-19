@@ -1,4 +1,4 @@
 {
     "git.ignoreLimitWarning": true,
-    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: master]"
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: boas_praticas_css]"
 }
